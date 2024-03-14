@@ -2,7 +2,7 @@
 
 ## How To Use
 
-This Go program provides a simple API server for interacting with a TrustWallet block transaction parser.
+This Go program provides a simple API server for interacting with transactions on Ethereum
 
 ### API Endpoints & Example Responses
 
